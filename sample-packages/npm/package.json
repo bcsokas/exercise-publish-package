@@ -1,5 +1,13 @@
 {
-  "publishConfig": {
-  "registry": "https://npm.pkg.github.com"
-},
+  "name": "@my-org/server",
+  "version": "1.0.0",
+
+
+  "description": "Server app that uses the ORGANIZATION_NAME/PACKAGE_NAME package",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bcsokas/npm": "1.0.0"
+  }
 }
